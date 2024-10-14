@@ -1,0 +1,42 @@
+<html>
+ <head>
+<title>Tribute to Ratan Tata</title>
+<style>
+body{font-family :Arial , sans-serif; margin:0;background : #c1d5ff;}
+header , footer {background: black; color:white;text-align: center ; padding : 10px;}
+nav ul {display:flex;justify-content:center;padding:0;list-style:none;background:#083ea9;}
+nav ul li{margin:0 10px;}  
+nav ul li a{color:white;text-decoration:none;padding:10px;display: block;}
+section{padding:20px;text-align: center;}   
+.biodata{background: white;padding:20px;box-shadow: 0 2px 5px rgba*(0,0,0,0,0.1); max-width : 600px;margin :auto;}
+.biodata img{display: block; margin: 0 auto 20px;max-width:150px;border-radius : 50%;}
+
+ </style>
+ </head>
+ <body>
+  <header><hi>Tribute to Ratan Tata</hi></header>
+  <nav><ul><li><a href= "#about"> About </a></li></ul></nav><li><a href= "abiodata">Biodata</a></li><li></a href="#contact">Contact</a></li></ul></nav>
+  <section id ="about">
+    <h2>About Me</h2>
+    <p><strong> Tata is a former Indian businessman and industrialist who was the chairman of the Tata Group</strong></p>
+    <p><strong>He was born on December 28, 1937</strong></p>
+    <p><strong>He died recently on 9th October, 2024</strong></p>
+    <p><strong>All the India mourns for him, RIP</strong></p>
+  </section>
+<section id="biodata">
+    <img src="https://static.newsheads.in/media/thumbs/2024/10/10/871388859-ratan-tata_1200x675.jpg" alt="Image of the map who changed the world">
+    <p><strong>by </strong>Kushagra Gulati</p>
+    <p><strong>and </strong>Aarav Dandona</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
